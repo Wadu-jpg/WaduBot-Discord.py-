@@ -1,4 +1,4 @@
 # WaduBot-Discord.py-
-Discord Bot that grabs random images from Google
+Discord Bot that sends images that are embed in the code.
 
-(Prefix is "." ) It has some other features but it should only be used for image searches. Everything else is buggy.
+(Prefix is "." ) It has some other features but it should only be used for images. Cogs are included
